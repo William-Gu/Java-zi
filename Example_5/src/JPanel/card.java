@@ -2,7 +2,7 @@ package JPanel;
 import java.applet.*;//小应用程序
 import java.awt.*;//创建用户界面和绘制图形图像的所有分类
 import java.awt.event.*;//事件
-import javax.swing.*;//应用程序用户界面的开发工具包
+import javax.swing.*;//应用程序用户界面的开发工具包1
 
 class MyPanel extends JPanel{
 	int x;
