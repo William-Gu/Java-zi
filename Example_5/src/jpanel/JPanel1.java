@@ -1,4 +1,4 @@
-package JPanel;
+package jpanel;
 import javax.swing.*;
 import java.awt.*;
 import java.applet.*;
@@ -15,7 +15,7 @@ class MyPanel extends JPanel{
 	}
 }
 
-public class JPanel extends Applet{
+public class JPanel1 extends Applet{
 	MyPanel panel1,panel2;
 	JButton button;
 	public void init(){

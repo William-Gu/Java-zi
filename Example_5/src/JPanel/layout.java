@@ -1,4 +1,4 @@
-package JPanel;
+package jpanel;
 import javax.swing.*;
 import java.awt.*;
 public class layout {

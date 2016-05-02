@@ -1,4 +1,4 @@
-package JPanel;
+package jpanel;
 import java.applet.*;//小应用程序
 import java.awt.*;//创建用户界面和绘制图形图像的所有分类
 import java.awt.event.*;//事件

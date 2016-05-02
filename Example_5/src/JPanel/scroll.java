@@ -1,4 +1,5 @@
-package JPanel;
+
+package jpanel;
 import javax.swing.*;
 import java.awt.*;
 import java.applet.*;
