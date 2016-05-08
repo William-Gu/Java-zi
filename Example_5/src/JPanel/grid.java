@@ -1,4 +1,4 @@
-package JPanel;
+package jpanel;
 import javax.swing.*;
 import java.applet.*;
 import java.awt.*;
@@ -9,7 +9,7 @@ class MyWindow extends JFrame{
 		Container con=getContentPane();
 		con.setPreferredSize(new Dimension(w,h));
 		con.setLayout(new BorderLayout());
-		JPanel p=new JPanel();
+		JPanel1 p=new JPanel1();
 		p.setLayout(new GridLayout(6,6));
 		for(int i=0;i<6;i++){
 		p.add(new JLabel());
