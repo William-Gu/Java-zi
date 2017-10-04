@@ -12,7 +12,7 @@ public class filechoose {
 }
 class FrameFileDialog extends JFrame implements ActionListener{
 	JFileChooser filedialog=null;
-	JLabel label=new JLabel(",JLAbel.CENTER");
+	JLabel label=new JLabel("hehe",JLabel.CENTER);
 	JButton b1,b2;
 	JTextArea text;
 	FrameFileDialog(){

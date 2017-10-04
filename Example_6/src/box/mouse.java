@@ -1,7 +1,5 @@
 package box;
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
+import java.awt.*;import java.awt.event.*;import javax.swing.*;
 
 class mouseWindow extends JFrame{
 	public mouseWindow(String s){

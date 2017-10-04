@@ -1,7 +1,5 @@
 package box;
-import java.awt.*;
-import java.awt.event.*;
-import java.applet.*;
+import java.awt.*;import java.awt.event.*;import java.applet.*;
 public class key extends Applet implements KeyListener{
 	int count=0;
 	Button button=new Button();

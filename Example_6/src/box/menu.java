@@ -58,6 +58,7 @@ public class menu extends Applet implements ActionListener{
 			if(bool){
 				window.setVisible(true);
 				bool=false;
+				button.setLabel("已打开");
 			}else{
 				window.setVisible(false);
 				bool=true;

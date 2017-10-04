@@ -1,4 +1,4 @@
-package jpanel;
+package JPanel;
 import java.applet.*;//小应用程序
 import java.awt.*;//创建用户界面和绘制图形图像的所有分类
 import java.awt.event.*;//事件
@@ -17,7 +17,6 @@ class MyPanel extends JPanel{
 		return new Dimension(200,50);
 	}
 }
-
 public class card extends Applet implements ActionListener{
 	CardLayout mycard;
 	MyPanel myPanel[];

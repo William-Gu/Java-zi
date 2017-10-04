@@ -1,7 +1,5 @@
 package box;
-import javax.swing.*;import java.awt.*;
-import java.awt.event.*;import java.applet.*;
-
+import javax.swing.*;import java.awt.*;import java.awt.event.*;import java.applet.*;
 class MyScrollBar extends JScrollBar{
 	public MyScrollBar(int init,int len,int low,int high){
 		super(JScrollBar.HORIZONTAL,init,len,low,high);

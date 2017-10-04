@@ -8,9 +8,6 @@ public class applet1 extends Applet{
 		g.drawString("World", 20, pos+20);	
 		pos+=5;
 		System.out.println(pos);
-	}
-	
+	}	
 }
-
-
 	

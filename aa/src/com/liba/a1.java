@@ -1,7 +1,7 @@
 package com.liba;
 import java.awt.Color;
-
 import javax.swing.*;
+
 public class a1 {
 	public static void main(String[] arge){
 		JFrame mw=new JFrame("I`m thr first window.");

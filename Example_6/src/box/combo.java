@@ -9,7 +9,8 @@ class ComBoxDemo extends JFrame implements ActionListener,ItemListener{
 	public static final int Width=350;
 	public static final int Height=150;
 	String List[]={"foot","head","hand"};
-	JTextField text;JComboBox combo;JLabel text2;JTextField text1;
+	JTextField text;JComboBox combo;
+	JLabel text2;JTextField text1;
 	public ComBoxDemo(){
 		setSize(Width,Height);
 		setTitle("组合框");
